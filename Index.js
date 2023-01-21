@@ -70,9 +70,9 @@ body {
   cursor: pointer;
 }
 
-.list-container .list-group-item {
+.list-container .list-group-item 
   border-left: none;
   border-right: none;
   padding: 20px;
   cursor: pointer;
-}
+
