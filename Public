@@ -1,8 +1,8 @@
-{
-    "name": "setup",
-    "version": "1.0.0",
-    "main":"server.js",
-    "dependencies": {
-        "express" "^4.17.1"
-    }
-}
+//{
+ //   "name": "setup",
+ //   "version": "1.0.0",
+ //   "main":"server.js",
+   // "dependencies": {
+ //       "express" "^4.17.1"
+ //   }
+//}
